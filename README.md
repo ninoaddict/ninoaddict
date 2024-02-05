@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2QwY3dteXJ6ZXI4aXF1Z2V2N2c0eXh1aGp6MHRiNGR3ZG1rNGZzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="500" height="400"/>
 </div>
 
 ---
