@@ -26,7 +26,7 @@
 I am a computer science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bandung.
 - :telescope: I’m interested in front-end and back-end development
 
-- :zap: In my free time, I solve problems on Codeforces and TLX
+- :zap: In my free time, I solve problems on <a href="https://codeforces.com/profile/punyanino">Codeforces</a> and <a href="https://tlx.toki.id/profiles/JohnChrys28i">TLX</a>
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-profile-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/adril-putra-merin-m-b11284249/))
 
